@@ -10,7 +10,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("⚽ EPL 2025/26 Scouting & Performance Dashboard")
+st.title("⚽ EPL 2025/26 Performance Dashboard")
 
 # ---------------------------------------------------
 # LOAD DATA
