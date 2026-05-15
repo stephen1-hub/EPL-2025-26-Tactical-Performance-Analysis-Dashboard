@@ -1,0 +1,19 @@
+epl-tactical-analysis-dashboard/
+│
+├── app23.py
+├── league-chemp.xlsx
+├── requirements.txt
+├── README.md
+│
+├── assets/
+│   ├── dashboard_preview.png
+│   ├── tactical_map.png
+│   └── finishing_efficiency.png
+│
+├── notebooks/
+│   └── exploratory_analysis.ipynb
+│
+└── screenshots/
+    ├── scatter_plot.png
+    ├── performance_gap.png
+    └── defensive_efficiency.png
