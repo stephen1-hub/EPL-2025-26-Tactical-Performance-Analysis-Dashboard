@@ -88,6 +88,7 @@ Insight
 Underlying metrics suggest relegation-risk profiles.
 
 ## Visuals Included
+live demo: https://epl-2025-26-tactical-performance-analysis-dashboard-hhrddhu5sp.streamlit.app/
 
 The dashboard contains several interactive Plotly visualizations:
 
